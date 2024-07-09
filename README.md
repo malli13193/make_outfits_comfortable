@@ -103,7 +103,7 @@ Instant size-adjustable outfits represent a significant innovation in the fashio
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/malli13193/make_outfits_comfortable/blob/main/LICENSE) file for details.
 
 ---
 
