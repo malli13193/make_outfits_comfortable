@@ -3,7 +3,7 @@
 ## Instant Size-Adjustable Fashion Designing
 
 Welcome to the Instant Size-Adjustable Fashion Designing project! This repository contains all the necessary files and documentation to understand the concept and development of garments that can instantly adjust their size to provide a perfect fit for every individual. 
-
+![WhatsApp Image 2024-07-09 at 15 00 27_fbb12729](https://github.com/malli13193/make_outfits_comfortable/assets/115869610/24dfff4e-780b-438b-a9f7-0ae7f8563d06)
 ### Table of Contents
 
 - [Introduction](#introduction)
@@ -28,6 +28,7 @@ Welcome to the Instant Size-Adjustable Fashion Designing project! This repositor
 - [Conclusion](#conclusion)
 - [License](#license)
 
+![WhatsApp Image 2024-07-09 at 14 57 47_9709eda9](https://github.com/malli13193/make_outfits_comfortable/assets/115869610/cbb3aa3d-dbea-4ae0-9644-42b9672839cd)
 ### Introduction
 
 The fashion industry is always on the lookout for innovative solutions to enhance customer experience and product versatility. One such innovation is the concept of instant size-adjustable outfits, where garments can be transformed from loose to fitted at the touch of a button. This report explores the technology behind this concept, its benefits, market potential, and challenges.
@@ -109,5 +110,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, please feel free to open an issue or contact the repository owner.
 
 Thank you for your interest in the Instant Size-Adjustable Fashion Designing project!
-![WhatsApp Image 2024-07-09 at 15 00 27_fbb12729](https://github.com/malli13193/make_outfits_comfortable/assets/115869610/24dfff4e-780b-438b-a9f7-0ae7f8563d06)
-![WhatsApp Image 2024-07-09 at 14 57 47_9709eda9](https://github.com/malli13193/make_outfits_comfortable/assets/115869610/cbb3aa3d-dbea-4ae0-9644-42b9672839cd)
+
